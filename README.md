@@ -6,7 +6,7 @@ Data Scientist
 
 * 🌍  I'm based in New Brunswick, NJ
 * ✉️  You can contact me at [prateekm2112@gmail.com](mailto:prateekm2112@gmail.com)
-* 🧠  I'm learning Recommender Systems, ReactJS, NodeJS, PostgreSQL
+* 🧠  I'm learning MLOps, PostgreSQL, LLMs
 * 🤝  I'm open to collaborating on Data Science Projects
 
 ### Skills
