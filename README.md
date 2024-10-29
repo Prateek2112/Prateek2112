@@ -1,13 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Prateek Mishra
 ======================================================================================================================================
 
-Data Scientist
+Data Scientist | Python | SQL
 --------------
 
 * 🌍  I'm based in New Brunswick, NJ
 * ✉️  You can contact me at [prateekm2112@gmail.com](mailto:prateekm2112@gmail.com)
 * 🧠  I'm learning MLOps, PostgreSQL, LLMs
 * 🤝  I'm open to collaborating on Data Science Projects
+
+![](https://komarev.com/ghpvc/?username=Prateek2112&label=PROFILE+VIEWS)
 
 ### Skills
 
